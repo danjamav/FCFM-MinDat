@@ -7,4 +7,4 @@ Tareas Mineria de Datos
 
 [Examen diagnostico] (https://github.com/danjamav/FCFM-MinDat/blob/main/Ex-Diagnostico_1872137.pdf)
 
-[Equipo_9-Ejercicio Base de Datos]  (https://github.com/BrendaHernandez28/FCFM_MineriaDts/blob/main/Equipo_8_Ejercicio.Base.de.Datos.pdf)
+[Equipo_8-Ejercicio Base de Datos]  ( https://github.com/BrendaHernandez28/FCFM_MineriaDts/blob/main/Equipo_8_Ejercicio.Base.de.Datos.pdf)
