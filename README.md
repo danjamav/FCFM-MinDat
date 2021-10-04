@@ -18,3 +18,5 @@ Tareas Mineria de Datos
 [Presentación técnicas de minería de datos]  (https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Presentacion_Patrones%20secuenciales_Equipo08.pdf)
 
 [Ejemplo de patrones secuenciales]  (https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Ejemplo_PatronesSecuenciales_Equipo8.ipynb)
+
+[Avance Pia]  (https://nbviewer.jupyter.org/github/JoshuneArriaga/FCFM/blob/main/AvancePIA_II_Grupo001_Equipo8.ipynb)
