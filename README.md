@@ -20,3 +20,6 @@ Tareas Mineria de Datos
 [Ejemplo de patrones secuenciales]  (https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Ejemplo_PatronesSecuenciales_Equipo8.ipynb)
 
 [Avance Pia]  (https://nbviewer.jupyter.org/github/JoshuneArriaga/FCFM/blob/main/AvancePIA_II_Grupo001_Equipo8.ipynb)
+
+[ejercicios de técnicas de minería]  (https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/Ejercicios_tecnicas_de_miner%C3%ADa_Equipo8.ipynb)
+
