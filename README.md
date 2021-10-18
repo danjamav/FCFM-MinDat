@@ -23,3 +23,5 @@ Tareas Mineria de Datos
 
 [ejercicios de técnicas de minería]  (https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/Ejercicios_tecnicas_de_miner%C3%ADa_Equipo8.ipynb)
 
+[Notebook final]  (https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/PIA_Equipo8.ipynb)
+
